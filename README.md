@@ -34,8 +34,7 @@ I am particularly interested in research and engineering problems involving:
 
 ## Research & Professional Links
 
-- 🌐 Personal Website — coming soon
-
+- 🌐 Personal Website — (https://jeyaseelan-k-udiyappan.github.io)
 - ✉️ Email: jk993924@ohio.edu
 
 ---
