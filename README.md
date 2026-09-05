@@ -1,16 +1,52 @@
-## Hi there 👋
+# Jeyaseelan Krishna Udiyappan
 
-<!--
-**Jeyaseelan-K-Udiyappan/Jeyaseelan-K-Udiyappan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhD Researcher in Chemical Engineering**  
+Electrochemical Systems · Transport Phenomena · Complex Fluids · Multiphysics Modeling
 
-Here are some ideas to get you started:
+I work at the intersection of **experiments and physics-based computation**, with research spanning electrochemical suspension electrodes, non-Newtonian transport, rotating-flow hydrodynamics, and particle-suspension modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Research
+
+- 🔋 Electrochemical slurry / suspension electrodes
+- 🌊 Yield-stress and rotating flows
+- 🧪 Suspension rheology and mass transfer
+- 🧮 Physics-based electrochemical reactor modeling
+- ⚙️ Custom experimental hardware and reactor development
+
+
+## Technical Interests
+
+**Particle / microstructure physics → local flow and transport → device-scale performance**
+
+I am particularly interested in research and engineering problems involving:
+
+- Electrochemical systems and reactors
+- Transport phenomena
+- Complex fluids and rheology
+- Multiphysics and continuum modeling
+- Particle suspensions
+- Scientific computing
+- Model-based process and system development
+
+## Tools
+
+`Python` · `MATLAB` · `COMSOL Multiphysics` · `ANSYS Fluent` · `SolidWorks`
+
+## Research & Professional Links
+
+- 🌐 Personal Website — coming soon
+
+- ✉️ Email: jk993924@ohio.edu
+
+---
+
+### Selected Projects
+
+Public technical repositories will be added progressively as research is prepared for public release.
+
+Planned portfolio areas include:
+
+- Yield-stress rotating-flow modeling
+- Electrochemical slurry transport
+- Particle-suspension dynamics
+- Multiphysics modeling examples
